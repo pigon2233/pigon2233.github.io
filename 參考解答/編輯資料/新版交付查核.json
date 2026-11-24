@@ -1,0 +1,349 @@
+{
+  "questions": 391,
+  "exams": 56,
+  "subjects": {
+    "園藝植物學": 15,
+    "蔬菜學": 116,
+    "果樹學": 134,
+    "花卉學": 126
+  },
+  "characters": 494563,
+  "exams_detail": [
+    {
+      "subject": "園藝植物學",
+      "year": 96,
+      "questions": 5,
+      "points": 100
+    },
+    {
+      "subject": "園藝植物學",
+      "year": 95,
+      "questions": 5,
+      "points": 100
+    },
+    {
+      "subject": "園藝植物學",
+      "year": 93,
+      "questions": 5,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 106,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 105,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 104,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 103,
+      "questions": 6,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 102,
+      "questions": 6,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 101,
+      "questions": 6,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 100,
+      "questions": 8,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 99,
+      "questions": 6,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 98,
+      "questions": 6,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 97,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 96,
+      "questions": 6,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 95,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 93,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 106,
+      "questions": 8,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 105,
+      "questions": 8,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 104,
+      "questions": 8,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 103,
+      "questions": 6,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 102,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 101,
+      "questions": 9,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 100,
+      "questions": 10,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 99,
+      "questions": 10,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 98,
+      "questions": 9,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 97,
+      "questions": 8,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 96,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 95,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 93,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 106,
+      "questions": 6,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 105,
+      "questions": 5,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 104,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 103,
+      "questions": 6,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 102,
+      "questions": 8,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 101,
+      "questions": 8,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 100,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 99,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 98,
+      "questions": 8,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 97,
+      "questions": 6,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 96,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 95,
+      "questions": 5,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 93,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 111,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 112,
+      "questions": 6,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 113,
+      "questions": 8,
+      "points": 100
+    },
+    {
+      "subject": "果樹學",
+      "year": 114,
+      "questions": 9,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 111,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 112,
+      "questions": 8,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 113,
+      "questions": 8,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 114,
+      "questions": 8,
+      "points": 100
+    },
+    {
+      "subject": "花卉學",
+      "year": 115,
+      "questions": 8,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 111,
+      "questions": 6,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 112,
+      "questions": 5,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 113,
+      "questions": 6,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 114,
+      "questions": 7,
+      "points": 100
+    },
+    {
+      "subject": "蔬菜學",
+      "year": 115,
+      "questions": 6,
+      "points": 100
+    }
+  ]
+}
